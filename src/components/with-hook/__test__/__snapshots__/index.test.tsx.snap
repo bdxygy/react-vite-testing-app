@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`with-hook should component render 1`] = `
+<div>
+  <h1>
+    Samsudin
+  </h1>
+</div>
+`;
+
+exports[`with-hook should component render with data Tester 1`] = `
+<div>
+  <h1>
+    Sumarsih
+  </h1>
+</div>
+`;
+
+exports[`with-hook should component render with error 1`] = `
+<div>
+  <h1>
+    Error
+  </h1>
+</div>
+`;
+
+exports[`with-hook should component render with loading 1`] = `
+<div>
+  <h1>
+    Loading...
+  </h1>
+</div>
+`;
